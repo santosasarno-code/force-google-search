@@ -27,7 +27,7 @@ Edge: edge://extensions
 
 4. When prompted by the browser to confirm the search settings change, click Keep it / Turn on.
 
-Compatibility
+## Compatibility
 Supported: Windows & macOS (Chrome, Edge, and other Chromium-based browsers).
 
 Unsupported: Linux (Chromium restricts chrome_settings_overrides on Linux by design).
