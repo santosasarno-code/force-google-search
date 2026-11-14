@@ -11,4 +11,26 @@ A lightweight Manifest V3 browser extension for Google Chrome and Microsoft Edge
 
 1. Download or clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/USERNAME_LO/force-google-search.git](https://github.com/USERNAME_LO/force-google-search.git)
+   git clone [https://github.com/USERNAME/force-google-search.git](https://github.com/USERNAME/force-google-search.git)
+
+## Manual Installation
+
+1. Open your browser and navigate to the extensions page:
+
+Chrome: chrome://extensions
+
+Edge: edge://extensions
+
+2. Enable Developer mode (top-right toggle in Chrome, or left sidebar in Edge).
+
+3. Click Load unpacked and select the force-google-search folder.
+
+4. When prompted by the browser to confirm the search settings change, click Keep it / Turn on.
+
+Compatibility
+Supported: Windows & macOS (Chrome, Edge, and other Chromium-based browsers).
+
+Unsupported: Linux (Chromium restricts chrome_settings_overrides on Linux by design).
+
+License
+MIT License
