@@ -17,9 +17,9 @@ A lightweight Manifest V3 browser extension for Google Chrome and Microsoft Edge
 
 1. Open your browser and navigate to the extensions page:
 
-Chrome: chrome://extensions
+   - Chrome: chrome://extensions
 
-Edge: edge://extensions
+   - Edge: edge://extensions
 
 2. Enable Developer mode (top-right toggle in Chrome, or left sidebar in Edge).
 
@@ -28,9 +28,9 @@ Edge: edge://extensions
 4. When prompted by the browser to confirm the search settings change, click Keep it / Turn on.
 
 ## Compatibility
-Supported: Windows & macOS (Chrome, Edge, and other Chromium-based browsers).
+   - Supported: Windows & macOS (Chrome, Edge, and other Chromium-based browsers).
 
-Unsupported: Linux (Chromium restricts chrome_settings_overrides on Linux by design).
+   - Unsupported: Linux (Chromium restricts chrome_settings_overrides on Linux by design).
 
-License
+#License
 MIT License
