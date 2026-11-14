@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Force Google Search",
+  "version": "1.0",
+  "description": "Forces the default search engine to Google.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "Google",
+      "keyword": "google.com",
+      "search_url": "https://www.google.com/search?q={searchTerms}",
+      "favicon_url": "https://www.google.com/favicon.ico",
+      "suggest_url": "https://www.google.com/complete/search?client=chrome&q={searchTerms}",
+      "encoding": "UTF-8",
+      "is_default": true
+    }
+  }
+}
