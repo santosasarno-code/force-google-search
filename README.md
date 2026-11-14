@@ -32,5 +32,5 @@ A lightweight Manifest V3 browser extension for Google Chrome and Microsoft Edge
 
    - Unsupported: Linux (Chromium restricts chrome_settings_overrides on Linux by design).
 
-#License
+##License
 MIT License
